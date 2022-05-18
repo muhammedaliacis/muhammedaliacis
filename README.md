@@ -5,12 +5,10 @@
 • [Instagram](https://www.instagram.com/muhammedacs/) <br>
 • [LinkedIn](https://www.linkedin.com/in/muhammed-ali-açış-3b928b234/) <br>
 
-## I’m currently working on <br>
-• <a target="_blank" href="https://icons8.com/icon/40670/c-programming">C Programming</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> <br>
-•  <br>
-•  <br>
-•  <br> 
-•  <br>
+## I’m currently learning on <br>
+• <img src = "https://img.icons8.com/color/344/c-programming.png" width ="30" ><br>
+• <img src = "https://img.icons8.com/color/344/python--v1.png" width ="30" <br> 
+• <img src = "https://img.icons8.com/fluency/344/python.png" width ="30" <br>
 
 
 ## My Stats
