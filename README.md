@@ -42,5 +42,5 @@
 
 ## Profile Views
 <p align="center">
-  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=yakupacs&color=blue">
+  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=muhammedaliacis&color=blue">
 </p>
