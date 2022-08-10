@@ -23,7 +23,7 @@
 
 ## Ecole 42 Stats
 
-[![macis's 42 stats](https://badge42.vercel.app/api/v2/cl5eao562001109mocbcqs76v/stats?cursusId=21&coalitionId=227)](https://github.com/muhammedaliacis/Ecole42_Libft)
+[![macis's 42 stats](https://badge42.vercel.app/api/v2/cl5eao562001109mocbcqs76v/stats?cursusId=21&coalitionId=227)](https://github.com/muhammedaliacis)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
