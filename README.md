@@ -8,9 +8,6 @@
 [<img src = "https://img.icons8.com/color/344/instagram-new--v1.png" width ="30" >](https://www.instagram.com/muhammedacs/)
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width ="30" >](https://www.linkedin.com/in/muhammed-ali-açış-3b928b234/) <br>
 
-## I’m currently learning on <br>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/offices/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedaliacis&show_icons=true&theme=synthwave)
 
