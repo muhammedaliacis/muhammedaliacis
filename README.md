@@ -1,6 +1,3 @@
-![Neon Yeşil Mor Siyah Modern Grunge YouTube Outro](https://user-images.githubusercontent.com/99296563/178121538-5541444b-1539-4006-98e0-86e3c72eee6d.gif)
-
-
 # Hi, I’m Muhammed Ali Açış
 
 ## How to reach me <br>
